@@ -1,3 +1,6 @@
 # hello-world
-Just another repository.
-那这个里面是可以输入中文的。
+
+Hi humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos.
